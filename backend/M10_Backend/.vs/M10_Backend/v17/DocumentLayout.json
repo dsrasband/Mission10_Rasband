@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6F45C6-B6ED-4351-A796-46E8E170D0E3}|M10_Backend.csproj|c:\\users\\davisrasband\\source\\repos\\mission10_rasband\\backend\\m10_backend\\controllers\\bowlerinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6F45C6-B6ED-4351-A796-46E8E170D0E3}|M10_Backend.csproj|solutionrelative:controllers\\bowlerinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6F45C6-B6ED-4351-A796-46E8E170D0E3}|M10_Backend.csproj|c:\\users\\davisrasband\\source\\repos\\mission10_rasband\\backend\\m10_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6F45C6-B6ED-4351-A796-46E8E170D0E3}|M10_Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6F45C6-B6ED-4351-A796-46E8E170D0E3}|M10_Backend.csproj|c:\\users\\davisrasband\\source\\repos\\mission10_rasband\\backend\\m10_backend\\data\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6F45C6-B6ED-4351-A796-46E8E170D0E3}|M10_Backend.csproj|solutionrelative:data\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6F45C6-B6ED-4351-A796-46E8E170D0E3}|M10_Backend.csproj|c:\\users\\davisrasband\\source\\repos\\mission10_rasband\\backend\\m10_backend\\data\\bowlercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6F45C6-B6ED-4351-A796-46E8E170D0E3}|M10_Backend.csproj|solutionrelative:data\\bowlercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6F45C6-B6ED-4351-A796-46E8E170D0E3}|M10_Backend.csproj|c:\\users\\davisrasband\\source\\repos\\mission10_rasband\\backend\\m10_backend\\data\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6F45C6-B6ED-4351-A796-46E8E170D0E3}|M10_Backend.csproj|solutionrelative:data\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6F45C6-B6ED-4351-A796-46E8E170D0E3}|M10_Backend.csproj|c:\\users\\davisrasband\\source\\repos\\mission10_rasband\\backend\\m10_backend\\data\\bowlerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6F45C6-B6ED-4351-A796-46E8E170D0E3}|M10_Backend.csproj|solutionrelative:data\\bowlerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACIAAABkZmZmZiYwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:15:33.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\Data\\EFBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EFBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\Data\\EFBowlerRepository.cs",
+              "RelativeToolTip": "Data\\EFBowlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:12:24.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\Data\\IBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\Data\\IBowlerRepository.cs",
+              "RelativeToolTip": "Data\\IBowlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:11:02.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BowlerContext.cs",
+              "DocumentMoniker": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\Data\\BowlerContext.cs",
+              "RelativeDocumentMoniker": "Data\\BowlerContext.cs",
+              "ToolTip": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\Data\\BowlerContext.cs",
+              "RelativeToolTip": "Data\\BowlerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:09:01.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BowlerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\Data\\BowlerInfo.cs",
+              "RelativeDocumentMoniker": "Data\\BowlerInfo.cs",
+              "ToolTip": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\Data\\BowlerInfo.cs",
+              "RelativeToolTip": "Data\\BowlerInfo.cs",
+              "ViewState": "AQIAAAAAAAB4Z2ZmZmYEwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:02:09.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlerInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\Controllers\\BowlerInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlerInfoController.cs",
+              "ToolTip": "C:\\Users\\davisrasband\\source\\repos\\Mission10_Rasband\\backend\\M10_Backend\\Controllers\\BowlerInfoController.cs",
+              "RelativeToolTip": "Controllers\\BowlerInfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T02:58:46.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
